@@ -17,9 +17,9 @@ Ideal for environmental sensing and data logging, perfect for a weather station 
 ----
 ### Si7021 vs OTHER SENSORS
 
-
-
 The [TEMP102](https://github.com/kingston-hackSpace/TEMP102) is a temperature-only sensor that provides fast and precise readings. If you require high-precision and a wider temperature range, then the TEMP102 is a more suitable choice.
+
+The [DHT11/DHT22](https://github.com/kingston-hackSpace/DHT) are temperature-and-humidity sensors, ideal for environmental temperature sensing, when humidity is also required. They are cheaper than the Si7021, but offer lower accuracy and a smaller temperature range.
 
 ----
 ### HARDWARE
