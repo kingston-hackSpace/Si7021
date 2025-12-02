@@ -1,8 +1,25 @@
 # Temperature and Humidity Sensor -  Si7021
 
-The Si7021is a Temperature and Humidity sensor.
+The Si7021 is a temperature-and-humidity sensor.
 
-Similar than the DHT11/DHT22, but more precise. Whoever, more expensive.
+|Si7021        | range          |
+|:--------     |:--------       |
+| Temperature: | –40 to +125 °C | 
+| Humidity:    | 0% to 100% RH  | 
+
+More info : [here](https://learn.sparkfun.com/tutorials/si7021-humidity-and-temperature-sensor-hookup-guide?_ga=1.14529911.1112797644.1423130072)
+
+----
+### WHEN TO USE IT
+
+Ideal for environmental sensing and data logging, perfect for a weather station or humidor control system.
+
+----
+### Si7021 vs OTHER SENSORS
+
+
+
+The [TEMP102](https://github.com/kingston-hackSpace/TEMP102) is a temperature-only sensor that provides fast and precise readings. If you require high-precision and a wider temperature range, then the TEMP102 is a more suitable choice.
 
 ----
 ### HARDWARE
